@@ -1,3 +1,4 @@
 My first file and first commit
 second changed and second
 CHANGED HERE
+INSIDE VS CODE
